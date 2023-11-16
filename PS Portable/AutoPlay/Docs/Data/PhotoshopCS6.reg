@@ -1,0 +1,88 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0]
+"FreeBeforeSlopAdjust"=dword:00380000
+"FreeSpace"=dword:001e84cc
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\ApplicationPath]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\PluginPath]
+
+[HKEY_CURRENT_USER\Software\Adobe]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage]
+"GUID"="b792d336-17e9-4625-a361-70e046f4fa00"
+"Agent"="C:\\Users\\CAMILO\\Desktop\\Aplicaciones\\Photoshop CS6 Portable en Español\\PS Portable\\AutoPlay\\Docs\\App\\PhotoshopCS6\\"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6]
+"OptIn"=dword:00000000
+"Date"="2023-04-05T06:02:28Z"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights\Adobe Photoshop CS6]
+"Prerelease"=dword:00000000
+"Build"="13.0 20120315.r.428 2012/03/15:21:00:00"
+"LaunchCounter"=dword:00000005
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6_CS6_Adobe Photoshop CS6_13.0]
+"OptIn"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\DC0262CB639C]
+@="1F1111DAE72E49C9311288A0D37E19D324264FAD"
+
+[HKEY_CURRENT_USER\Software\Adobe\IAC]
+"UserID"="747944F5BA3FDE8A42F5D23D19E56FC"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-11-09T01:28:37.9810Z]
+@="C:\\Users\\CAMILO\\Desktop\\FICHA 2338319\\proyecto\\PROYECTO-GRADO\\Delipizza2022\\public\\sidebar\\img\\Pizzalogo.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-11-12T02:19:55.9711Z]
+@="C:\\xampp\\xampp2\\htdocs\\lckm-cloud\\public\\img\\nube-removebg-preview.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-11-12T02:24:15.4582Z]
+@="C:\\xampp\\xampp2\\htdocs\\lckm-cloud\\public\\img\\logo.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-04-05T06:03:10.4770Z]
+@="C:\\Users\\CAMILO\\Downloads\\astronauta.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-04-05T06:03:18.9211Z]
+@="C:\\Users\\CAMILO\\Downloads\\astronauta-removebg-preview (1).png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-05-01T04:27:53.5150Z]
+@="D:\\Downloads\\pexels-luis-gomes-546819.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-05-22T18:46:25.5450Z]
+@="D:\\Downloads\\Fopre-cafe\\fopre-cafe-2.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-05-22T19:05:21.2822Z]
+@="D:\\Downloads\\Fopre-cafe\\fopre-cafe-1.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-08-07T23:50:08.3180Z]
+@="D:\\Desktop\\prueba-logo.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0]
+"uiLanguageKey CS6"="en_US"
+"oldPaletteFontTypeKey CS6"=dword:00000000
+"MemoryUsage"=dword:0000003c
+"ShowStatusWindow"=dword:00000001
+"AppWindowPosition"="[40,21,1224,648]"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0\VisitedDirs]
+"STARTUPIMAGEDIRECTORY"="D:\\Desktop\\"
